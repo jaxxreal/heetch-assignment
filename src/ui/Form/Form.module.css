@@ -1,0 +1,8 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    padding: 15px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
