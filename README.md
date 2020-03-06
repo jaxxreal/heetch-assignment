@@ -1,4 +1,14 @@
+# Overview
+
+This app was created in a process of applying for Senior Frontend Engineer role @ [Heetch](https://www.heetch.com/en).
+
+The task may be found [here](./SPEC.md).
+
+App overview may be found [here](./APP_OVERVIEW.md).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# How to deal with it
 
 ## Before you start
 
